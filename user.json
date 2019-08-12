@@ -1,1 +1,7 @@
-{"id":1,"name":"Danik","phone":"87021969826"}
+{"number":1,"First Name":"Danik","Phone Number":"87021969826",
+  "params":
+  [
+    {"key":"position","value":"533"},
+    {"key":"department","value":"010861"}
+  ]
+}
